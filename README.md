@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, my Name is Yasin Fidan! 👋</h1>
-<p align="center>
+<p align="center">
   Interested in Programming and working as a Business Analyst!
 </p>
 <!--
