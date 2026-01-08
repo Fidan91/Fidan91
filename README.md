@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<h1 align="center"> Hi, my Name is Yasin Fidan! 👋</h1>
+<p align="center>
+  <i> asdfa </i>
+</p>
 <!--
 **Fidan91/Fidan91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
